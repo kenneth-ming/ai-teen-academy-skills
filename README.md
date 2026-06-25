@@ -16,8 +16,8 @@
 
 | Skill | 對應課程 | 功能 | 連結 |
 |---|---|---|---|
-| `skill_installer` | meta | 一句話裝 skill 的安裝器（先裝這個） | [檔案](skills/skill_installer.md) |
-| `visual_gen` | 課程 3 | 萬能視覺生成（文字／圖 → 圖／影片） | [檔案](skills/visual_gen.md) |
+| `skill_installer` | meta | 一句話裝 skill 的安裝器（先裝這個） | [檔案](ai-teen-academy-skills/skills/skill_installer.md) |
+| `visual_gen` | 課程 3 | 萬能視覺生成（文字／圖 → 圖／影片） | [檔案](ai-teen-academy-skills/skills/visual_gen.md) |
 
 > 之後每多一支 skill，就在這張表加一列、檔案丟進 `/skills/`。
 
