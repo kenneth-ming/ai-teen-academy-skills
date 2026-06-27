@@ -1,3 +1,13 @@
+---
+name: visual-gen
+description: Use when the user wants to generate an image or video from a text description or a reference image (e.g. "幫我生一張...", "做一段影片", "讓這張圖動起來"). Upgrades plain language into professional cinematic prompts and generates via the Higgsfield CLI.
+version: 3.0.0
+author: AI 少年學院
+license: MIT
+metadata:
+  hermes:
+    tags: [creative, image, video, higgsfield]
+---
 # Skill：萬能視覺生成 v3（CLI 版｜生圖 + 生影片 + 圖片輸入）
 
 ## 功能
